@@ -1,0 +1,27 @@
+.list-item {
+	background-color: yellow;
+	border: 1px solid black;
+	margin-top: 10px;
+}
+.navbar {
+	background-color: red;
+	border: 1px solid black;
+}
+h1.header {
+	margin-top: 10px;
+	margin-bottom: 15px;
+}
+.navbar-brand {
+	font-size: 1.5em;
+	font-weight: bold;
+	margin-left: 15px;
+}
+section.main-content {
+	height: 1000px;
+	background-color: green;
+	margin: 15px;
+}
+.title {
+	font-size: 1.3em;
+}
+
